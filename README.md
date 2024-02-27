@@ -75,7 +75,7 @@ Oject based - VB, VBscript, python
 Oject oriented - c++, Java, C#, python
 
 
-Oops
+Oops concepts:
 --------------
 1. class
 2. object
@@ -99,18 +99,14 @@ JVM - Java Virtual Machine
 1. core java concept - all object related 
 2. Advance java concept - collection, data structure
 
-
-
 To set up environemnt 
 -----------------
 
 1. JDK/java
 2. IDE (Eclipse, IntelliJIDE etc)
 
-
-versions 
+Java versions 
 ------------------
-
 Java 8 - Sun miccro systems
 Java 9 - Oracle
 
@@ -129,18 +125,16 @@ C:\Users\Siddharth\eclipse-workspace
 create new java project - (file -> New -> java project 
 create new java package - (right click on src -> package
 create new class -( right click on package -> new -> class
-
-
-Comment: 
+---------------------------
+Types of Comment: 
 Single line //
 Mulitple line /* end */
 ---------------------------------------------
-Day 2 
 
 Variables and Data types 
----------------------------
 
 Variable is a container which can hold data to represent data we need variable
+-------------------------
 
 int number = 10
 float decimal = 10.05
@@ -151,15 +145,14 @@ boolean bool = True
 ------------------------------------
 Represent type of Data
 
-1. Premitive - 
+** Premitive **
 -------------------------
 byte,short,long,int --- number without decimal
 float, double ------ Decimal Number 
 Char ------> Single char
 Boolean ----> true/false
 
-;
-2.Non premitive 
+Non premitive **
 ----------------
 String
 Arraylist
